@@ -21,6 +21,13 @@ find out bad chars !! remove them
 6. get a reverse shell 
 
 
-to  get a detailed idea  about bufferoverflow  visit -- https://blog.certcube.com/oscp-detail-guide-to-stack-buffer-overflow-1/
+visit this https://github.com/c3rtcub3/stack_based_buffer_overflow_vulnserver/tree/master/bof and check procedure in more details and also get trun file to check vulnserver 
+
+
+to  get a detailed all-in-one bufferoverflow  guide visit -- https://blog.certcube.com/oscp-detail-guide-to-stack-buffer-overflow-1/
 
 follow all 9 blogs you will get a decent knowledge about bof which will help you crack the OSCP Bof
+
+
+Regards,
+Naresh
